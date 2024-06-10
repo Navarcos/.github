@@ -1,12 +1,22 @@
-## Hi there 👋
+# Navarcos
 
-<!--
+## Introduction
 
-**Here are some ideas to get you started:**
+Navarcos is a k8s multi-cluster management system built on Open Source solutions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Technologies
+
+- ClusterAPI
+  - GitHub: https://github.com/kubernetes-sigs/cluster-api
+  - Docs: https://cluster-api.sigs.k8s.io/
+- ClusterAPI vSphere Provider
+  - GitHub: https://github.com/kubernetes-sigs/cluster-api-provider-vsphere
+- Keycloak
+  - GitHub: https://github.com/keycloak/keycloak
+  - Docs: https://www.keycloak.org/documentation
+- Cert-Manager
+  - GitHub: https://github.com/cert-manager/cert-manager
+  - Docs: https://cert-manager.io/docs/
+- Calico / Tigera Operator
+  - GitHub: https://github.com/tigera/operator
+  - Docs: https://docs.tigera.io/calico/latest/about/
