@@ -1,22 +1,14 @@
 # Navarcos
 
-## Introduction
+## What is Navarcos?
 
-Navarcos is a k8s multi-cluster management system built on Open Source solutions.
+* Is an innovative Platform that simplifies the development, deployment, and management of cloud-native applications, ensuring efficiency and reliability.
+* Provides a set of REST API to manage Kubernetes resources .
+* A Kubernetes ClusterAPI web administration, shows informations about pods, persistent volume , config maps , helm charts and so on…
 
-## Technologies
+## What Can Navarcos Do for Me?
 
-- ClusterAPI
-  - GitHub: https://github.com/kubernetes-sigs/cluster-api
-  - Docs: https://cluster-api.sigs.k8s.io/
-- ClusterAPI vSphere Provider
-  - GitHub: https://github.com/kubernetes-sigs/cluster-api-provider-vsphere
-- Keycloak
-  - GitHub: https://github.com/keycloak/keycloak
-  - Docs: https://www.keycloak.org/documentation
-- Cert-Manager
-  - GitHub: https://github.com/cert-manager/cert-manager
-  - Docs: https://cert-manager.io/docs/
-- Calico / Tigera Operator
-  - GitHub: https://github.com/tigera/operator
-  - Docs: https://docs.tigera.io/calico/latest/about/
+Navarcos offers:
+* **Scalability**: Easily adapt to growing business needs. Kubernetes provide the ability to dynamically adjust the resources allocated to your application workloads based on demand. It involves adding or removing resources such as pods, nodes, or containers to match the changing needs of your applications
+* **Security**: With Keycloak integration, the requests are available only to users allowed.
+* **Automation**: Streamline development and deployment workflows. You can connect your CD platform to deploy your application on kubernetes.
